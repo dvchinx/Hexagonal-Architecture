@@ -19,6 +19,7 @@ El propósito principal es proporcionar una API REST que permita interactuar con
 - Uso de **Spring Data JPA** para la comunicación con la base de datos PostgreSQL.  
 - API RESTful con operaciones CRUD completas para la tabla `students`.  
 - Base de datos inicializada con un conjunto de datos predefinido mediante un script SQL.  
+- Documentación de la aplicación usando **Swagger**.
 
 ---
 
